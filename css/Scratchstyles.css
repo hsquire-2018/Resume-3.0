@@ -1,0 +1,61 @@
+.common{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    background-color: #333; /* set background color of navigation bar */
+  }
+  
+  nav ul {
+    list-style-type: none; /* remove bullet points from list */
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* hide any overflow content */
+  }
+  
+  nav li {
+    float: left; /* float the list items to make them horizontal */
+  }
+  
+  nav li a {
+    display: block; 
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111; /* change background color of links on hover */
+  }
+  ol{ 
+    list-style-position: inside;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+ul {
+    list-style-position: inside;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  .footer{
+        background-color: black;
+        color:white;
+        height: 25px;
+        position: fixed;
+        bottom: 0px;
+        right:5px;
+        left:5px;
+    }
+.mainbody{
+    background-color: burlywood;
+}
+.header{
+    background-color: black;
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+  
+
+  
+

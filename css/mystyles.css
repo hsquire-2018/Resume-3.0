@@ -1,0 +1,21 @@
+ul{
+    font-size: 15px;
+}
+ol{
+    font-size: 20px
+}
+h2{
+    font-size: 25px
+}
+.subheading{
+    color: darksalmon;
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: antiquewhite;
+}
